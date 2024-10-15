@@ -36,7 +36,7 @@ export default function MyApp() {
     <ElevatedSharedStateButton count={count} onClick={handleElevatedSharedStateButtonClick}/>
 
 
-{/* WIP */}
+{/* WIP  */}
     <h1>Custom  Buttons:</h1>
       <MyCustomButton clickHandler="incrementByOne" />
       <MyCustomButton clickHandler="incrementByFiveTimesCurrent" />
